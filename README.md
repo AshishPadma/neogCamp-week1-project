@@ -9,4 +9,4 @@
 3. One point will be deducted if the Answer is Wrong.
 
 
-[Here's a link](https://replit.com/@Ashishpadma/Test-you-english-quiz-1#index.js "Quiz App Link")
+[Here's a link](https://replit.com/@Ashishpadma/Test-you-english-quiz-1?embed=1output=1#index.js "Quiz App Link")
